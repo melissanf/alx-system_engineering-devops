@@ -1,3 +1,0 @@
-# Application server
-
-Melissa Nafa
